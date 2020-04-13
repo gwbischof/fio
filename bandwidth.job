@@ -19,6 +19,5 @@ openfiles=10
 file_service_type=normal
 create_serialize=0
 direct=1
-directory=/tmp
 filename_format=$jobname/$jobnum/$filenum
 gtod_reduce=1
